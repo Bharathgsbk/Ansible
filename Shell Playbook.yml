@@ -6,3 +6,7 @@
     - name : Shell command
       shell:
          "cat password"
+         
+    - name : Shell command
+      shell:
+         "history"
