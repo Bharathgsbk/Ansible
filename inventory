@@ -1,4 +1,2 @@
-localhost
-
-[mylabservers]
+[testservers]
 683b06656b3c.mylabserver.com ansible_connection=ssh ansible_user=cloud_user ansible_ssh_pass=Vishal@123 ansible_become_pass=Vishal@123
